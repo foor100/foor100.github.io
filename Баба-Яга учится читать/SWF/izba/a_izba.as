@@ -1,0 +1,37 @@
+_root.myLength=32;
+_root.LTRs = new Array();
+//--------------------------------------------------letters
+_root.LTRs[0] = new Array();
+_root.LTRs[0][0] = "a";
+_root.LTRs[0][1] = "b";
+_root.LTRs[0][2] = "v";
+_root.LTRs[0][3] = "d";
+_root.LTRs[0][4] = "e";
+_root.LTRs[0][5] = "yo";
+_root.LTRs[0][6] = "zh";
+_root.LTRs[0][7] = "z";
+_root.LTRs[0][8] = "i";
+_root.LTRs[0][9] = "iy";
+_root.LTRs[0][10] = "k";
+_root.LTRs[0][11] = "l";
+_root.LTRs[0][12] = "m";
+_root.LTRs[0][13] = "n";
+_root.LTRs[0][14] = "o";
+_root.LTRs[0][15] = "p";
+_root.LTRs[0][16] = "r";
+_root.LTRs[0][17] = "s";
+_root.LTRs[0][18] = "t";
+_root.LTRs[0][19] = "u";
+_root.LTRs[0][20] = "f";
+_root.LTRs[0][21] = "h";
+_root.LTRs[0][22] = "tz";
+_root.LTRs[0][23] = "ch";
+_root.LTRs[0][24] = "sh";
+_root.LTRs[0][25] = "shch";
+_root.LTRs[0][26] = "hard";
+_root.LTRs[0][27] = "y";
+_root.LTRs[0][28] = "soft";
+_root.LTRs[0][29] = "e2";
+_root.LTRs[0][30] = "yu";
+_root.LTRs[0][31] = "ya";
+//-------------------------------------------------libraries
